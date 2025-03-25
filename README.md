@@ -1,4 +1,4 @@
-Use ESP-IDF to make a station with a website to display the data from ESP through wifi. Learning ESP32.
+Use ESP-IDF to make a station with a website to display the data from ESP through wifi with http protocol. Learning ESP-IDF -- use ESP32 devkit v1. 
 
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- |
